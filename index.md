@@ -3,6 +3,6 @@ title: Test Title
 description: Test Description
 ---
 
-# My First revised Heading
+# My First Revised Heading
 
 [Go to Code Folder](/code/index.md)
