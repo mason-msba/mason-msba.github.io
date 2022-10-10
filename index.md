@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Test Title w/New Theme
+title: Test Title w/Deleted Folders
 description: Test Description
 ---
 
