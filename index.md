@@ -4,6 +4,6 @@ title: Test Title
 description: Test Description
 ---
 
-# My First Minima Heading
+# My First Heading
 
 [Go to Code Folder](/code/index.md)
