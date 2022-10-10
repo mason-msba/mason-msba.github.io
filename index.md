@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Test Title w/2.0
+<--- layout: default --->
+title: Test Title 
 description: Test Description
 ---
 
