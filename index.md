@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Test Title with New Theme
+title: Test Title
 description: Test Description
 ---
 
